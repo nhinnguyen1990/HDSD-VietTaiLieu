@@ -27,7 +27,7 @@
 ![upload](upload.png)
 * Hoặc click chọn Choose your files (Chọn file của bạn) để tải lên là hoàn tất
 
-![upload1.png](upload1.png)
+![upload1](upload1.png)
 * Giao diện
 
-![KETQUA.png](KETQUA.PNG)
+![KETQUA](KETQUA.PNG)
