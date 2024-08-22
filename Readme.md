@@ -16,12 +16,12 @@
 # 3. Tạo tài khoản Github
 * Đầu tiên, bạn truy cập vào trang chủ chính thức của [GitHub](https://github.com) và đăng nhập bằng cách click chọn Sign Up, sau đó điền lần lượt các thông tin cần thiết như User name, Email address, Password
 
-![Dangky](dangky.png)
+![Dangky](Dangky.png)
 * Tiếp theo, hãy tích chọn ô “Send me occasional product updates, announcement, and offers” nếu muốn nhận thông báo về thông tin cập nhật, ưu đãi… rồi chọn Verify > Create account để hoàn tất quá trình tạo tài khoản
 # 4. Tải file lên hệ thống
 * Hãy tạo 1 kho lưu trữ GitHub mới. Sau đó, bạn truy cập vào kho lưu trữ rồi chọn Add file (Thêm tệp), sau đó click vào Upload files (Tải tệp lên)
 
-![CTaoFile](Taofile.png)
+![CTaoFile](TaoFile.png)
 * Bước 2: Sau đó, bạn chỉ cần kéo và thả thư mục để tải lên kho lưu trữ một cách nhanh chóng nhất.hoặc click chọn Choose your files (Chọn file của bạn) để tải lên là hoàn tất
 
 ![upload](upload.png)
