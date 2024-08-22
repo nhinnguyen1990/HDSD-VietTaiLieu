@@ -30,4 +30,4 @@
 ![upload1](upload1.png)
 * Giao diện
 
-![KETQUA](KETQUA.PNG)
+![Ketqua](Ketqua.png)
