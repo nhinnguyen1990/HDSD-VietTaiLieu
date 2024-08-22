@@ -2,6 +2,7 @@
 # 2. Hướng dẫn tạo file .md
 ## 2.1. Tạo file .md trên Visual Studio code
 * Chọn File -> new file
+* Chọn thư mục -> nhập tên file.md. Ví dụ readme.md
 ## 2.2. Cách viết file.md
 ### Tiêu đề
 Để tạo tiêu đề, bạn có thể sử dụng dấu thăng (#) và số lượng dấu thăng tương ứng với cấp độ của tiêu đề. Ví dụ: # Tiêu đề cấp 1, ## Tiêu đề cấp 2, ### Tiêu đề cấp 3.
